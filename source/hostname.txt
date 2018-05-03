@@ -1,7 +1,7 @@
 ## This is a list of VPN hostnames, which we resolve to IPs and then dump into the final vpn.txt file.
 ## The comment above each set of IPs indicates where they came from.
 ## This entire file is refreshed every couple of months.
-## Last full refresh: 29/03/2017
+## Last full refresh: 29/03/2018
 
 ## https://support.purevpn.com/vpn-servers
 vlus-af1-ovpn-udp.pointtoserver.com	
