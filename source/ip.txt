@@ -1,7 +1,7 @@
 ## This is a list of VPN & datacenter IPs, which we later dump into the final vpn.txt file.
 ## The comment above each set of IPs indicates where they came from. They're mostly BGP lookups.
 ## This entire file is refreshed roughly every 2 months.
-## Last full refresh: 03/06/2018 (DD/MM/YYYY)
+## Last full refresh: 28/07/2018 (DD/MM/YYYY)
 
 ## https://bgp.he.net/search?search%5Bsearch%5D=%22Aruba+S.p.A.%22&commit=Search
 95.110.192.0/18	Aruba S.p.A.Italy
