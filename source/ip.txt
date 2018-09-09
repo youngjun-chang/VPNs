@@ -2021,21 +2021,6 @@ https://bgp.he.net/search?search%5Bsearch%5D=EGIhosting&commit=Search
 103.253.145.0/24	Digital Ocean, Inc.Singapore
 103.253.144.0/22	Digital Ocean, Inc.Singapore
 
-## https://bgp.he.net/search?search%5Bsearch%5D=%22ONLINE+S.A.S.%22&commit=Search
-91.160.0.0/12	ONLINE S.A.S.France
-88.120.0.0/13	ONLINE S.A.S.France
-83.214.0.0/16	ONLINE S.A.S.France
-83.152.0.0/13	ONLINE S.A.S.France
-82.142.0.0/18	ONLINE S.A.S.France
-62.4.0.0/19	ONLINE S.A.S.France
-62.210.0.0/16	ONLINE S.A.S.France
-213.36.0.0/16	ONLINE S.A.S.France
-212.83.128.0/19	ONLINE S.A.S.France
-212.47.224.0/19	ONLINE S.A.S.France
-212.129.0.0/18	ONLINE S.A.S.France
-2001:bc8::/32	ONLINE S.A.S.France
-195.154.0.0/16	ONLINE S.A.S.France
-
 ## https://bgp.he.net/search?search%5Bsearch%5D=%22Nuclear+Fallout%22&commit=Search
 74.201.57.0/24	Nuclear Fallout Enterprises (C02054257)United States
 72.5.54.0/24	Nuclear Fallout Enterprises (C06978340)United States
