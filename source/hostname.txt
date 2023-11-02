@@ -9651,28 +9651,35 @@ gw1.iad1.frostvpn.com
 gw2.iad1.frostvpn.com
 
 ## https://vpnbaron.com/members/downloads.php?a=mobile
-fr1.vpnbaron.com
-fr2.vpnbaron.com	
-fr3.vpnbaron.com
-nl1.vpnbaron.com
-us1.vpnbaron.com
-us10.vpnbaron.com
-us4.vpnbaron.com
-us5.vpnbaron.com
-us7.vpnbaron.com
 au1.vpnbaron.com
 au2.vpnbaron.com
-ca1.vpnbaron.com
+au3.vpnbaron.com
+ca2.vpnbaron.com
 de1.vpnbaron.com
 dk1.vpnbaron.com
 es1.vpnbaron.com
-uk1.vpnbaron.com
-uk2.vpnbaron.com
+fr1.vpnbaron.com
+fr2.vpnbaron.com
+fr2.vpnbaron.com	
+fr3.vpnbaron.com
+fr4.vpnbaron.com
+fr5.vpnbaron.com
 jp1.vpnbaron.com
+nl1.vpnbaron.com
 nl2.vpnbaron.com
 no1.vpnbaron.com
+pl1.vpnbaron.com
 ro1.vpnbaron.com
-br1.vpnbaron.com
+sg1.vpnbaron.com
+sg2.vpnbaron.com
+uk1.vpnbaron.com
+uk2.vpnbaron.com
+us10.vpnbaron.com
+us1.vpnbaron.com
+us2.vpnbaron.com
+us4.vpnbaron.com
+us5.vpnbaron.com
+us7.vpnbaron.com
 
 ## https://support.ivacy.com/kb/vpn-servers/
 usla1.dns2use.com
