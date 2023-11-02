@@ -9439,6 +9439,15 @@ sg-sin.ovpn.azirevpn.net
 hk-hkg.ovpn.azirevpn.net
 ua-iev.ovpn.azirevpn.net
 
+## https://www.azirevpn.com/cfg/wireguard
+se-sto.wg.azirevpn.net
+se-got.wg.azirevpn.net
+no-osl.wg.azirevpn.net
+us-lax.wg.azirevpn.net
+de-ber.wg.azirevpn.net
+fi-hel.wg.azirevpn.net
+
+
 
 ## https://btguard.com/vpn_openvpn_linux.php
 ca.vpn.btguard.com
