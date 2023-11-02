@@ -9411,12 +9411,43 @@ vpn.blackvpn.nl
 vpn.blackvpn.ro
 vpn.blackvpn.ch
 
-## https://www.azirevpn.com/support/configuration
-ca.ovpn.azirevpn.net
-es.ovpn.azirevpn.net
-se.ovpn.azirevpn.net
-us.ovpn.azirevpn.net
-uk.ovpn.azirevpn.net
+## https://www.azirevpn.com/cfg/openvpn
+se-sto.ovpn.azirevpn.net
+nl-ams.ovpn.azirevpn.net
+se-got.ovpn.azirevpn.net
+no-osl.ovpn.azirevpn.net
+us-lax.ovpn.azirevpn.net
+us-dal.ovpn.azirevpn.net
+us-sea.ovpn.azirevpn.net
+dk-cph.ovpn.azirevpn.net
+fr-par.ovpn.azirevpn.net
+de-fra.ovpn.azirevpn.net
+ro-buh.ovpn.azirevpn.net
+us-chi.ovpn.azirevpn.net
+us-mia.ovpn.azirevpn.net
+ca-tor.ovpn.azirevpn.net
+es-mal.ovpn.azirevpn.net
+es-mad.ovpn.azirevpn.net
+th-hkt.ovpn.azirevpn.net
+ch-zrh.ovpn.azirevpn.net
+de-ber.ovpn.azirevpn.net
+it-mil.ovpn.azirevpn.net
+gb-lon.ovpn.azirevpn.net
+us-nyc.ovpn.azirevpn.net
+fi-hel.ovpn.azirevpn.net
+sg-sin.ovpn.azirevpn.net
+hk-hkg.ovpn.azirevpn.net
+ua-iev.ovpn.azirevpn.net
+
+## https://www.azirevpn.com/cfg/wireguard
+se-sto.wg.azirevpn.net
+se-got.wg.azirevpn.net
+no-osl.wg.azirevpn.net
+us-lax.wg.azirevpn.net
+de-ber.wg.azirevpn.net
+fi-hel.wg.azirevpn.net
+
+
 
 ## https://btguard.com/vpn_openvpn_linux.php
 ca.vpn.btguard.com
